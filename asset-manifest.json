@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Trading_appp/static/css/main.f20bd954.css",
+    "main.js": "/Trading_appp/static/js/main.fbff3039.js",
+    "static/media/payment.png": "/Trading_appp/static/media/payment.f0ac3f7153c0c79fe4b3.png",
+    "static/media/Tablet-Man.jpg": "/Trading_appp/static/media/Tablet-Man.489e3481b0db51705c89.jpg",
+    "static/media/man and woman.jpg": "/Trading_appp/static/media/man and woman.89efe24342cde85e3ef3.jpg",
+    "static/media/TradExpress.svg": "/Trading_appp/static/media/TradExpress.dd0374a0f68fb3b2381bffdc338b80dc.svg",
+    "static/media/mailing.svg": "/Trading_appp/static/media/mailing.fed14af63a151654d434dfaa34b21fa9.svg",
+    "static/media/logo.svg": "/Trading_appp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Trading_appp/index.html",
+    "main.f20bd954.css.map": "/Trading_appp/static/css/main.f20bd954.css.map",
+    "main.fbff3039.js.map": "/Trading_appp/static/js/main.fbff3039.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f20bd954.css",
+    "static/js/main.fbff3039.js"
+  ]
+}
