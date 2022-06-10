@@ -1,0 +1,55 @@
+.navbar {
+  background-color: #7c1fbf;
+}
+
+.btn2 {
+  text-decoration: none;
+  /* font: normal normal normal 16px/74px Roboto; */
+  width: 200px;
+  height: 40px;
+  padding-bottom: 30px;
+  font-size: small;
+  color: #7c20bf;
+  opacity: 1;
+}
+
+.btn1 {
+  text-decoration: none;
+  /* font: normal normal normal 16px/74px Roboto; */
+  background-color: #7c1fbf;
+  width: 200px;
+  height: 40px;
+  padding-bottom: 10px;
+  font-size: small;
+  border: 0.5px solid #ffffff;
+}
+
+.trad1 {
+  background: transparent linear-gradient(124deg, #7c1fbf 0%, #470a73 100%) 0%
+    0% no-repeat padding-box;
+  height: 30rem;
+  padding: 10px;
+  opacity: 1;
+}
+
+.trad2 {
+  /* margin-right: 500px; */
+  display: flex;
+  justify-content: flex-start;
+}
+
+.trad3 {
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 40px;
+}
+
+.btn3 {
+  width: 250px;
+  height: 40px;
+  text-decoration: none;
+  font-size: small;
+  color: #7c20bf;
+  float: left;
+  margin-left: 20px;
+}
